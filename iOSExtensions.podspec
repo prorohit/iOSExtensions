@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-    iOSExtensions will contain useful methods for the various data types of iOS. It can be used in the various projects to easy up the tasks.
+    This is iOS Extension pod project. It can be used in the various projects to easy the life of developers.
                        DESC
 
-  s.homepage         = 'https://github.com/prorohit13@gmail.com/iOSExtensions'
+  s.homepage         = 'https://github.com/prorohit/iOSExtensions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'prorohit13@gmail.com' => 'prorohit13@gmail.com' }
-  s.source           = { :git => 'https://github.com/prorohit13@gmail.com/iOSExtensions.git', :tag => s.version.to_s }
+  s.author           = { 'prorohit13' => 'prorohit13@gmail.com' }
+  s.source           = { :git => 'https://github.com/prorohit13/iOSExtensions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
