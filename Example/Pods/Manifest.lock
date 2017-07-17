@@ -1,0 +1,16 @@
+PODS:
+  - iOSExtensions (0.1.0)
+
+DEPENDENCIES:
+  - iOSExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  iOSExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSExtensions: ae31a3d9924552dc6c5ba72b0c713bade0cb1313
+
+PODFILE CHECKSUM: d9a3999bcec04ad330431a9dd56c6d04d99ee3fe
+
+COCOAPODS: 1.2.1

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'iOSExtensions'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of iOSExtensions.'
+  s.summary          = 'iOSExtensions will contain useful methods for the various data types of iOS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    iOSExtensions will contain useful methods for the various data types of iOS. It can be used in the various projects to easy up the tasks.
                        DESC
 
-  s.homepage         = 'https://github.com/shiva_sravan.naidu@students.tamuk.edu/iOSExtensions'
+  s.homepage         = 'https://github.com/prorohit13@gmail.com/iOSExtensions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'shiva_sravan.naidu@students.tamuk.edu' => 'shiva_sravan.naidu@students.tamuk.edu' }
+  s.author           = { 'prorohit13@gmail.com' => 'prorohit13@gmail.com' }
   s.source           = { :git => 'https://github.com/shiva_sravan.naidu@students.tamuk.edu/iOSExtensions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
