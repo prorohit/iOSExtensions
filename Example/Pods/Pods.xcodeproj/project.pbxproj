@@ -16,7 +16,6 @@
 		BED9D70E18A5E955499C64E640FFA1EC /* Pods-iOSExtensions_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 09B2EAD79078471564A9B8D7283C5957 /* Pods-iOSExtensions_Tests-dummy.m */; };
 		C6DE9E8F2FF52B5D798D7451294238F3 /* Pods-iOSExtensions_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1C0AC2D7CAB11C2C56190709010C58F /* Pods-iOSExtensions_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2B290EB1F1CCE4100D4729C /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B290EA1F1CCE4100D4729C /* String+Extension.swift */; };
-		D2B290EC1F1CCE4100D4729C /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B290EA1F1CCE4100D4729C /* String+Extension.swift */; };
 		DDB0CF65E79B4D07D90646307CC097F6 /* Pods-iOSExtensions_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 16FA538BEF4F778FB566A508A7138A52 /* Pods-iOSExtensions_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -343,7 +342,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2B290EC1F1CCE4100D4729C /* String+Extension.swift in Sources */,
 				A9FD378581F737AC17F40A0972B2D645 /* Pods-iOSExtensions_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
